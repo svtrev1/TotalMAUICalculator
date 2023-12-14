@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/svtrev/Projects/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.app/Contents/MonoBundle/libmonosgen-2.0.dylib

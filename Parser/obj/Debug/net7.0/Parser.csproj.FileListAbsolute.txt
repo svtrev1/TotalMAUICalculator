@@ -1,0 +1,12 @@
+/Users/svtrev/Projects/Parser/bin/Debug/net7.0/Parser.deps.json
+/Users/svtrev/Projects/Parser/bin/Debug/net7.0/Parser.dll
+/Users/svtrev/Projects/Parser/bin/Debug/net7.0/Parser.pdb
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.csproj.AssemblyReference.cache
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.AssemblyInfoInputs.cache
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.AssemblyInfo.cs
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.csproj.CoreCompileInputs.cache
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.dll
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/refint/Parser.dll
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.pdb
+/Users/svtrev/Projects/Parser/obj/Debug/net7.0/ref/Parser.dll
