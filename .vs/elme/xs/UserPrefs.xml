@@ -1,25 +1,43 @@
-﻿<Properties StartupConfiguration="{EDDF0100-42F4-49A8-8AF9-31256D0D329D}|Default">
+﻿<Properties StartupConfiguration="{6BEB6364-3BBA-4C6D-9A06-839CCCF0E018}|Default">
+  <MonoDevelop.Ide.ItemProperties.elme PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TestsUnit1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestsUnit1/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="elme/Properties/launchSettings.json">
     <Files>
-      <File FileName="Parser/Calculator.cs" Line="1" Column="1" />
+      <File FileName="Parser/Calculator.cs" />
       <File FileName="TestsUnit1/UnitTest1.cs" Line="4" Column="14" />
-      <File FileName="elme/ViewModel.cs" Line="1" Column="1" />
-      <File FileName="TestsUnit1/Usings.cs" Line="1" Column="1" />
+      <File FileName="elme/ViewModel.cs" />
+      <File FileName="TestsUnit1/Usings.cs" />
+      <File FileName="elme/Platforms/Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="elme/Platforms/Android/MainApplication.cs" Line="1" Column="1" />
+      <File FileName="elme/App.xaml" Line="1" Column="1" />
+      <File FileName="elme/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="elme/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="elme/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="elme/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="elme/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="elme/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="elme/AppShell.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="elme">
-            <Node name="elme" expanded="True" />
-            <Node name="Parser" expanded="True" />
-            <Node name="TestsUnit1" expanded="True" />
+          <Node name="elme" expanded="True">
+            <Node name="elme">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Images" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

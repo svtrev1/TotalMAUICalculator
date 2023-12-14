@@ -744,7 +744,6 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.csproj.AssemblyReference.cache
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/Parser.stamp
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.GeneratedMSBuildEditorConfig.editorconfig
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.AssemblyInfoInputs.cache
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.AssemblyInfo.cs
@@ -756,3 +755,4 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.pdb
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.genruntimeconfig.cache
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/elme.dll
+/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/Parser.stamp
