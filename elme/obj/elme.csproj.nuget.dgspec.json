@@ -94,10 +94,6 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
-            "Microsoft.TestPlatform.TestHost": {
-              "target": "Package",
-              "version": "[15.0.0, )"
-            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.2.0, )"
@@ -227,10 +223,6 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
-            "Microsoft.TestPlatform.TestHost": {
-              "target": "Package",
-              "version": "[15.0.0, )"
-            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.2.0, )"
@@ -304,10 +296,6 @@
             "Microsoft.TestPlatform": {
               "target": "Package",
               "version": "[17.8.0, )"
-            },
-            "Microsoft.TestPlatform.TestHost": {
-              "target": "Package",
-              "version": "[15.0.0, )"
             },
             "MySql.Data": {
               "target": "Package",
