@@ -90,6 +90,10 @@
               "version": "[7.0.96, )",
               "autoReferenced": true
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.2.0, )"
@@ -215,6 +219,10 @@
               "version": "[7.0.96, )",
               "autoReferenced": true
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.2.0, )"
@@ -284,6 +292,10 @@
               "target": "Package",
               "version": "[7.0.96, )",
               "autoReferenced": true
+            },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.8.0, )"
             },
             "MySql.Data": {
               "target": "Package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t1nnJRgXdPbSmTTo2J9BBgwEln5wLc5teck9jYPU+FXub8Zs5sU6nLXFn4MpYQmCTkQB3s78TakRWjpRu1JUmg==",
+  "dgSpecHash": "7po7/6MO+Hkawmpy2N77s3dBZinqRkYcyQX2+5OuGUfnc1ST8yK0XVHhtrx36X2FcZSaTIM34rYonIOABsr3uA==",
   "success": true,
   "projectFilePath": "/Users/svtrev/Desktop/TotalMAUICalculator/elme/elme.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "/Users/svtrev/.nuget/packages/microsoft.maui.graphics/7.0.96/microsoft.maui.graphics.7.0.96.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/svtrev/.nuget/packages/microsoft.testplatform/17.8.0/microsoft.testplatform.17.8.0.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/mysql.data/8.2.0/mysql.data.8.2.0.nupkg.sha512",

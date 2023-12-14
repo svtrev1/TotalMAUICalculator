@@ -11,33 +11,32 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="elme/Properties/launchSettings.json">
     <Files>
       <File FileName="Parser/Calculator.cs" />
-      <File FileName="TestsUnit1/UnitTest1.cs" Line="4" Column="14" />
+      <File FileName="TestsUnit1/UnitTest1.cs" />
       <File FileName="elme/ViewModel.cs" />
       <File FileName="TestsUnit1/Usings.cs" />
-      <File FileName="elme/Platforms/Android/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="elme/Platforms/Android/MainApplication.cs" Line="1" Column="1" />
-      <File FileName="elme/App.xaml" Line="1" Column="1" />
-      <File FileName="elme/AppShell.xaml" Line="1" Column="1" />
-      <File FileName="elme/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="elme/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="elme/MauiProgram.cs" Line="1" Column="1" />
-      <File FileName="elme/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="elme/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="elme/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="elme/Platforms/Android/MainActivity.cs" />
+      <File FileName="elme/Platforms/Android/MainApplication.cs" />
+      <File FileName="elme/App.xaml" />
+      <File FileName="elme/AppShell.xaml" />
+      <File FileName="elme/MainPage.xaml" />
+      <File FileName="elme/MainPage.xaml.cs" />
+      <File FileName="elme/MauiProgram.cs" />
+      <File FileName="elme/Properties/launchSettings.json" Line="9" Column="1" />
+      <File FileName="elme/App.xaml.cs" />
+      <File FileName="elme/AppShell.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="elme" expanded="True">
-            <Node name="elme">
+            <Node name="elme" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="Images" selected="True" />
-              </Node>
+              <Node name="Resources" expanded="True" />
               <Node name="App.xaml" expanded="True" />
               <Node name="AppShell.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
+            <Node name="Parser" expanded="True" />
           </Node>
         </State>
       </Pad>
