@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+X32dhvRxP/XTQQqg7ynqGRMH73dijmTc6PREwxIp1+lZyPlpgeaJuwSJUyq5tnfHzfAHkYtFnMk4VOxQZSCg==",
+  "dgSpecHash": "t1nnJRgXdPbSmTTo2J9BBgwEln5wLc5teck9jYPU+FXub8Zs5sU6nLXFn4MpYQmCTkQB3s78TakRWjpRu1JUmg==",
   "success": true,
-  "projectFilePath": "/Users/svtrev/Projects/elme/elme.csproj",
+  "projectFilePath": "/Users/svtrev/Desktop/TotalMAUICalculator/elme/elme.csproj",
   "expectedPackageFiles": [
     "/Users/svtrev/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",

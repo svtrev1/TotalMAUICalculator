@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "usrCtMSGbmlzqJY4cKaEZxV2Hr1czAiGjChBX3f0DlqLy+0QkovfImpLc4xdqlnrRCqqlW68QXR5xmPSeF1LRQ==",
+  "dgSpecHash": "sjWmFE5B0w8sNlYtMUx+ltP8Gorz+3FV4AM21XahBu2SrvQ/MtAqp3/llJlnguTRnJoqzx7AqqMyWrjnE7zxog==",
   "success": true,
-  "projectFilePath": "/Users/svtrev/Projects/TestsUnit1/TestsUnit1.csproj",
+  "projectFilePath": "/Users/svtrev/Desktop/TotalMAUICalculator/TestsUnit1/TestsUnit1.csproj",
   "expectedPackageFiles": [
     "/Users/svtrev/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/svtrev/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",

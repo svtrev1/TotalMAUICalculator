@@ -10,3 +10,15 @@
 /Users/svtrev/Projects/Parser/obj/Debug/net7.0/refint/Parser.dll
 /Users/svtrev/Projects/Parser/obj/Debug/net7.0/Parser.pdb
 /Users/svtrev/Projects/Parser/obj/Debug/net7.0/ref/Parser.dll
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/bin/Debug/net7.0/Parser.deps.json
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/bin/Debug/net7.0/Parser.dll
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/bin/Debug/net7.0/Parser.pdb
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.csproj.AssemblyReference.cache
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.AssemblyInfoInputs.cache
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.AssemblyInfo.cs
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.csproj.CoreCompileInputs.cache
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.dll
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/refint/Parser.dll
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/Parser.pdb
+/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/Debug/net7.0/ref/Parser.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/svtrev/Projects/Parser/Parser.csproj",
+      "projectUniqueName": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj",
       "projectName": "Parser",
-      "projectPath": "/Users/svtrev/Projects/Parser/Parser.csproj",
+      "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj",
       "packagesPath": "/Users/svtrev/.nuget/packages/",
-      "outputPath": "/Users/svtrev/Projects/Parser/obj/",
+      "outputPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/svtrev/.nuget/NuGet/NuGet.Config"

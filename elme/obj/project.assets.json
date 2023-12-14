@@ -56364,11 +56364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/svtrev/Projects/elme/elme.csproj",
+      "projectUniqueName": "/Users/svtrev/Desktop/TotalMAUICalculator/elme/elme.csproj",
       "projectName": "elme",
-      "projectPath": "/Users/svtrev/Projects/elme/elme.csproj",
+      "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/elme/elme.csproj",
       "packagesPath": "/Users/svtrev/.nuget/packages/",
-      "outputPath": "/Users/svtrev/Projects/elme/obj/",
+      "outputPath": "/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -56387,24 +56387,24 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "projectReferences": {
-            "/Users/svtrev/Projects/Parser/Parser.csproj": {
-              "projectPath": "/Users/svtrev/Projects/Parser/Parser.csproj"
+            "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj": {
+              "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj"
             }
           }
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "projectReferences": {
-            "/Users/svtrev/Projects/Parser/Parser.csproj": {
-              "projectPath": "/Users/svtrev/Projects/Parser/Parser.csproj"
+            "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj": {
+              "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj"
             }
           }
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "projectReferences": {
-            "/Users/svtrev/Projects/Parser/Parser.csproj": {
-              "projectPath": "/Users/svtrev/Projects/Parser/Parser.csproj"
+            "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj": {
+              "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj"
             }
           }
         }

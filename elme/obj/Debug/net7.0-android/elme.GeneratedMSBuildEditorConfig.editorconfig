@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = elme
-build_property.ProjectDir = /Users/svtrev/Projects/elme/
+build_property.ProjectDir = /Users/svtrev/Desktop/TotalMAUICalculator/elme/
 
-[/Users/svtrev/Projects/elme/App.xaml]
+[/Users/svtrev/Desktop/TotalMAUICalculator/elme/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = elme.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/svtrev/Projects/elme/AppShell.xaml]
+[/Users/svtrev/Desktop/TotalMAUICalculator/elme/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = elme.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/svtrev/Projects/elme/MainPage.xaml]
+[/Users/svtrev/Desktop/TotalMAUICalculator/elme/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = elme.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/svtrev/Projects/elme/Resources/Styles/Colors.xaml]
+[/Users/svtrev/Desktop/TotalMAUICalculator/elme/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = elme.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/svtrev/Projects/elme/Resources/Styles/Styles.xaml]
+[/Users/svtrev/Desktop/TotalMAUICalculator/elme/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = elme.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
