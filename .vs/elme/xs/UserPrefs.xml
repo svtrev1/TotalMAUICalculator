@@ -3,12 +3,24 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TestsUnit1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestsUnit1/UnitTest1.cs">
+    <Files>
+      <File FileName="Parser/Calculator.cs" Line="1" Column="1" />
+      <File FileName="TestsUnit1/UnitTest1.cs" Line="4" Column="14" />
+      <File FileName="elme/ViewModel.cs" Line="1" Column="1" />
+      <File FileName="TestsUnit1/Usings.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="elme" expanded="True" />
+          <Node name="elme">
+            <Node name="elme" expanded="True" />
+            <Node name="Parser" expanded="True" />
+            <Node name="TestsUnit1" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">

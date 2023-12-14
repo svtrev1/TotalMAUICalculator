@@ -1,1 +1,1 @@
--v --force --timestamp=none --sign - /Users/svtrev/Projects/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.app/Contents/MonoBundle/libSystem.Security.Cryptography.Native.Apple.dylib
+-v --force --timestamp=none --sign - /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.app/Contents/MonoBundle/libSystem.Security.Cryptography.Native.Apple.dylib

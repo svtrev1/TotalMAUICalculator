@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>elme.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/svtrev/Projects/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>elme.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/svtrev/Projects/elme</SourceProjectPath>
+      <SourceProjectPath>/Users/svtrev/Desktop/TotalMAUICalculator/elme</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
