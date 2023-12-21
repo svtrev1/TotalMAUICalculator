@@ -15,6 +15,7 @@
           "Microsoft.Extensions.Logging": "7.0.0",
           "Microsoft.Extensions.Logging.Debug": "7.0.0",
           "Microsoft.Maui.Graphics": "7.0.96",
+          "Microsoft.TestPlatform": "17.8.0",
           "MySql.Data": "8.2.0",
           "Parser": "1.0.0",
           "xunit": "2.6.2",
@@ -995,6 +996,7 @@
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.TestPlatform/17.8.0": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -2160,6 +2162,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.TestPlatform/17.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RzE0sObnWVpybRFsCWDZZzM2x/G/Gsqqi59YAsHisR4+9fljqR5LXX6ImN8MLaCN8mMEo/4LKLz2vh3OiEbvRQ==",
+      "path": "microsoft.testplatform/17.8.0",
+      "hashPath": "microsoft.testplatform.17.8.0.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

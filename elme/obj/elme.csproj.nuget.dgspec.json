@@ -18,8 +18,6 @@
           "/Users/svtrev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0-android",
-          "net7.0-ios",
           "net7.0-maccatalyst"
         ],
         "sources": {
@@ -27,22 +25,6 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0-android33.0": {
-            "targetAlias": "net7.0-android",
-            "projectReferences": {
-              "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj": {
-                "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj"
-              }
-            }
-          },
-          "net7.0-ios16.1": {
-            "targetAlias": "net7.0-ios",
-            "projectReferences": {
-              "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj": {
-                "projectPath": "/Users/svtrev/Desktop/TotalMAUICalculator/Parser/Parser.csproj"
-              }
-            }
-          },
           "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
             "projectReferences": {
@@ -59,209 +41,6 @@
         }
       },
       "frameworks": {
-        "net7.0-android33.0": {
-          "targetAlias": "net7.0-android",
-          "dependencies": {
-            "FluentAssertions": {
-              "target": "Package",
-              "version": "[6.12.0, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.Maui.Graphics": {
-              "target": "Package",
-              "version": "[7.0.96, )",
-              "autoReferenced": true
-            },
-            "Microsoft.TestPlatform": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.2.0, )"
-            },
-            "Xamarin.Android.Glide": {
-              "target": "Package",
-              "version": "[4.13.2.2, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Browser": {
-              "target": "Package",
-              "version": "[1.4.0.3, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Legacy.Support.V4": {
-              "target": "Package",
-              "version": "[1.0.0.15, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Lifecycle.LiveData": {
-              "target": "Package",
-              "version": "[2.5.1.1, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Navigation.Common": {
-              "target": "Package",
-              "version": "[2.5.2.1, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Navigation.Fragment": {
-              "target": "Package",
-              "version": "[2.5.2.1, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Navigation.Runtime": {
-              "target": "Package",
-              "version": "[2.5.2.1, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Navigation.UI": {
-              "target": "Package",
-              "version": "[2.5.2.1, )",
-              "autoReferenced": true
-            },
-            "Xamarin.AndroidX.Security.SecurityCrypto": {
-              "target": "Package",
-              "version": "[1.1.0-alpha03, )",
-              "autoReferenced": true
-            },
-            "Xamarin.Google.Android.Material": {
-              "target": "Package",
-              "version": "[1.7.0, )",
-              "autoReferenced": true
-            },
-            "Xamarin.Google.Crypto.Tink.Android": {
-              "target": "Package",
-              "version": "[1.7.0.1, )",
-              "autoReferenced": true
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.6.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.Android": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Controls": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Core": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Essentials": {
-              "privateAssets": "all"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
-        },
-        "net7.0-ios16.1": {
-          "targetAlias": "net7.0-ios",
-          "dependencies": {
-            "FluentAssertions": {
-              "target": "Package",
-              "version": "[6.12.0, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.Maui.Graphics": {
-              "target": "Package",
-              "version": "[7.0.96, )",
-              "autoReferenced": true
-            },
-            "Microsoft.TestPlatform": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.2.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.6.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.iOS": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Controls": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Core": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Essentials": {
-              "privateAssets": "all"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
-        },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
@@ -339,21 +118,6 @@
         }
       },
       "runtimes": {
-        "android-arm": {
-          "#import": []
-        },
-        "android-arm64": {
-          "#import": []
-        },
-        "android-x64": {
-          "#import": []
-        },
-        "android-x86": {
-          "#import": []
-        },
-        "iossimulator-x64": {
-          "#import": []
-        },
         "maccatalyst-x64": {
           "#import": []
         }
