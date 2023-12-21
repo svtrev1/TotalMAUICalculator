@@ -79,10 +79,6 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.2.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.6.2, )"
             }
           },
           "imports": [

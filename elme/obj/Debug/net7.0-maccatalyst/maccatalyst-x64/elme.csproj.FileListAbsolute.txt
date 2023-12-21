@@ -1,4 +1,3 @@
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.deps.json
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.runtimeconfig.json
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/elme.pdb
@@ -26,10 +25,6 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.ProtectedData.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Permissions.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Windows.Extensions.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/xunit.abstractions.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/xunit.assert.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/xunit.core.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/xunit.execution.dotnet.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/ZstdSharp.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
@@ -470,8 +465,4 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/System.Xml.XPath.stamp
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/System.Xml.XPath.XDocument.stamp
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/WindowsBase.stamp
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/xunit.abstractions.stamp
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/xunit.assert.stamp
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/xunit.core.stamp
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/xunit.execution.dotnet.stamp
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/ZstdSharp.stamp

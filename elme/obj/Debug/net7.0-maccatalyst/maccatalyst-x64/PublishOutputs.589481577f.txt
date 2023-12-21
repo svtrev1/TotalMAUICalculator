@@ -23,10 +23,6 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/System.Security.Cryptography.ProtectedData.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/System.Security.Permissions.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/System.Windows.Extensions.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/xunit.abstractions.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/xunit.assert.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/xunit.core.dll
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/xunit.execution.dotnet.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/ZstdSharp.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/Parser.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/elme.dll
@@ -206,7 +202,6 @@
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/elme.pdb
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/Parser.pdb
-/Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/elme.deps.json
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/libSystem.IO.Compression.Native.dylib
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/libSystem.Native.dylib
 /Users/svtrev/Desktop/TotalMAUICalculator/elme/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../elme.app/Contents/MonoBundle/libSystem.Net.Security.Native.dylib
